@@ -1,4 +1,6 @@
 {
-    "pack_format": 5,
-    "description": "Reduces debug info in favor of in-game options."
+    "pack": {
+        "pack_format": 5,
+        "description": "Reduces debug info in favor of in-game options."
+    }
 }
