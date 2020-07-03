@@ -1,0 +1,3 @@
+execute as @a[predicate=antif3:compass] run function antif3:compass
+execute as @a[tag=!global.ignore.gui,predicate=antif3:lodestone_compass_offhand] if data entity @s Inventory[{Slot:-106b}].tag.LodestonePos run title @s actionbar [{"nbt":"Inventory[{Slot:-106b}].tag.LodestonePos.X","entity":"@s","color":"light_purple"},{"text":", ","color":"light_purple"},{"nbt":"Inventory[{Slot:-106b}].tag.LodestonePos.Y","entity":"@s","color":"light_purple"},{"text":", ","color":"light_purple"},{"nbt":"Inventory[{Slot:-106b}].tag.LodestonePos.Z","entity":"@s","color":"light_purple"}]
+execute as @a[tag=!global.ignore.gui,predicate=antif3:clock] at @s run function antif3:clock

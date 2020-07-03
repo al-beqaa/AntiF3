@@ -2,6 +2,17 @@
   "condition": "minecraft:alternative",
   "terms": [
     {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "equipment": {
+          "mainhand": {
+            "item": "minecraft:clock"
+          }
+        }
+      }
+    },
+    {
       "condition": "minecraft:inverted",
       "term": {
         "condition": "minecraft:alternative",
@@ -32,17 +43,6 @@
             }
           }
         ]
-      }
-    },
-    {
-      "condition": "minecraft:entity_properties",
-      "entity": "this",
-      "predicate": {
-        "equipment": {
-          "mainhand": {
-            "item": "minecraft:clock"
-          }
-        }
       }
     }
   ]
