@@ -1,0 +1,20 @@
+[
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "equipment": {
+        "offhand": {
+          "item": "minecraft:compass"
+        }
+      }
+    }
+  },
+  {
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:reference",
+      "name": "antif3:lodestone_compass_offhand"
+    }
+  }
+]
