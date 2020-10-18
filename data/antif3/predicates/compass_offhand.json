@@ -13,8 +13,43 @@
   {
     "condition": "minecraft:inverted",
     "term": {
-      "condition": "minecraft:reference",
-      "name": "antif3:lodestone_compass_offhand"
+      "condition": "minecraft:alternative",
+      "terms": [
+        {
+          "condition": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "equipment": {
+              "offhand": {
+                "item": "minecraft:compass",
+                "nbt": "{LodestoneTracked:1b}"
+              }
+            }
+          }
+        },
+        {
+          "condition": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "equipment": {
+              "mainhand": {
+                "item": "minecraft:compass"
+              }
+            }
+          }
+        },
+        {
+          "condition": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "equipment": {
+              "mainhand": {
+                "item": "minecraft:clock"
+              }
+            }
+          }
+        }
+      ]
     }
   }
 ]
