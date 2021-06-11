@@ -5,7 +5,9 @@
       "predicate": {
         "equipment": {
           "offhand": {
-            "item": "minecraft:compass",
+            "items": [
+              "minecraft:compass"
+            ],
             "nbt": "{LodestoneTracked:1b}"
           }
         }
@@ -19,7 +21,9 @@
         "predicate": {
           "equipment": {
             "mainhand": {
-              "item": "minecraft:compass"
+              "items": [
+                "minecraft:compass"
+              ]
             }
           }
         }
@@ -33,7 +37,9 @@
         "predicate": {
           "equipment": {
             "mainhand": {
-              "item": "minecraft:clock"
+              "items": [
+                "minecraft:clock"
+              ]
             }
           }
         }

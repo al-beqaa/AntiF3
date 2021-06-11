@@ -7,7 +7,9 @@
       "predicate": {
         "equipment": {
           "mainhand": {
-            "item": "minecraft:clock"
+            "items": [
+              "minecraft:clock"
+            ]
           }
         }
       }
@@ -25,7 +27,9 @@
               "predicate": {
                 "equipment": {
                   "offhand": {
-                    "item": "minecraft:clock"
+                    "items": [
+                      "minecraft:clock"
+                    ]
                   }
                 }
               }
@@ -37,7 +41,9 @@
             "predicate": {
               "equipment": {
                 "mainhand": {
-                  "item": "minecraft:compass"
+                  "items": [
+                    "minecraft:compass"
+                  ]
                 }
               }
             }
