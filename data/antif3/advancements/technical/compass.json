@@ -1,0 +1,34 @@
+{
+  "criteria": {
+    "has_compass": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": [
+              "minecraft:compass"
+            ]
+          }
+        ]
+      }
+    },
+    "has_bundled_compass": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": [
+              "minecraft:bundle"
+            ],
+            "nbt": "{Items:[{id:\"minecraft:compass\"}]}"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "antif3:compass/main"
+  }
+}
