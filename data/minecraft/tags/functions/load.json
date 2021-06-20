@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-        "antif3:setup"
+        "antif3:setup",
+        "abcl:load"
     ]
 }
