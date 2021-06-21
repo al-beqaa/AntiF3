@@ -1,0 +1,8 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "antif3:item/ore_map/base_small",
+        "layer1": "antif3:item/ore_map/ore/small/diamond",
+        "layer2": "antif3:item/ore_map/altitude/small/33_to_64"
+    }
+}
