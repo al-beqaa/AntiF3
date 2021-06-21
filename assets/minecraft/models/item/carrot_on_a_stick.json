@@ -1,0 +1,584 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1320000
+            },
+            "model": "antif3:item/ore_map/small/coal/neg63_to_neg32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320001
+            },
+            "model": "antif3:item/ore_map/small/coal/neg31_to_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320002
+            },
+            "model": "antif3:item/ore_map/small/coal/1_to_32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320003
+            },
+            "model": "antif3:item/ore_map/small/coal/33_to_64"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320004
+            },
+            "model": "antif3:item/ore_map/small/coal/65_to_96"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320005
+            },
+            "model": "antif3:item/ore_map/small/coal/97_to_128"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320006
+            },
+            "model": "antif3:item/ore_map/small/coal/129_to_160"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320007
+            },
+            "model": "antif3:item/ore_map/small/coal/161_to_192"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320008
+            },
+            "model": "antif3:item/ore_map/small/coal/193_to_224"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320009
+            },
+            "model": "antif3:item/ore_map/small/coal/225_to_256"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320010
+            },
+            "model": "antif3:item/ore_map/small/coal/257_to_288"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320011
+            },
+            "model": "antif3:item/ore_map/small/coal/289_to_320"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320012
+            },
+            "model": "antif3:item/ore_map/small/copper/neg63_to_neg32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320013
+            },
+            "model": "antif3:item/ore_map/small/copper/neg31_to_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320014
+            },
+            "model": "antif3:item/ore_map/small/copper/1_to_32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320015
+            },
+            "model": "antif3:item/ore_map/small/copper/33_to_64"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320016
+            },
+            "model": "antif3:item/ore_map/small/copper/65_to_96"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320017
+            },
+            "model": "antif3:item/ore_map/small/copper/97_to_128"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320018
+            },
+            "model": "antif3:item/ore_map/small/copper/129_to_160"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320019
+            },
+            "model": "antif3:item/ore_map/small/copper/161_to_192"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320020
+            },
+            "model": "antif3:item/ore_map/small/copper/193_to_224"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320021
+            },
+            "model": "antif3:item/ore_map/small/copper/225_to_256"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320022
+            },
+            "model": "antif3:item/ore_map/small/copper/257_to_288"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320023
+            },
+            "model": "antif3:item/ore_map/small/copper/289_to_320"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320024
+            },
+            "model": "antif3:item/ore_map/small/iron/neg63_to_neg32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320025
+            },
+            "model": "antif3:item/ore_map/small/iron/neg31_to_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320026
+            },
+            "model": "antif3:item/ore_map/small/iron/1_to_32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320027
+            },
+            "model": "antif3:item/ore_map/small/iron/33_to_64"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320028
+            },
+            "model": "antif3:item/ore_map/small/iron/65_to_96"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320029
+            },
+            "model": "antif3:item/ore_map/small/iron/97_to_128"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320030
+            },
+            "model": "antif3:item/ore_map/small/iron/129_to_160"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320031
+            },
+            "model": "antif3:item/ore_map/small/iron/161_to_192"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320032
+            },
+            "model": "antif3:item/ore_map/small/iron/193_to_224"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320033
+            },
+            "model": "antif3:item/ore_map/small/iron/225_to_256"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320034
+            },
+            "model": "antif3:item/ore_map/small/iron/257_to_288"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320035
+            },
+            "model": "antif3:item/ore_map/small/iron/289_to_320"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320036
+            },
+            "model": "antif3:item/ore_map/small/gold/neg63_to_neg32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320037
+            },
+            "model": "antif3:item/ore_map/small/gold/neg31_to_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320038
+            },
+            "model": "antif3:item/ore_map/small/gold/1_to_32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320039
+            },
+            "model": "antif3:item/ore_map/small/gold/33_to_64"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320040
+            },
+            "model": "antif3:item/ore_map/small/gold/65_to_96"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320041
+            },
+            "model": "antif3:item/ore_map/small/gold/97_to_128"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320042
+            },
+            "model": "antif3:item/ore_map/small/gold/129_to_160"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320043
+            },
+            "model": "antif3:item/ore_map/small/gold/161_to_192"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320044
+            },
+            "model": "antif3:item/ore_map/small/gold/193_to_224"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320045
+            },
+            "model": "antif3:item/ore_map/small/gold/225_to_256"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320046
+            },
+            "model": "antif3:item/ore_map/small/gold/257_to_288"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320047
+            },
+            "model": "antif3:item/ore_map/small/gold/289_to_320"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320048
+            },
+            "model": "antif3:item/ore_map/small/lapis_lazuli/neg63_to_neg32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320049
+            },
+            "model": "antif3:item/ore_map/small/lapis_lazuli/neg31_to_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320050
+            },
+            "model": "antif3:item/ore_map/small/lapis_lazuli/1_to_32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320051
+            },
+            "model": "antif3:item/ore_map/small/lapis_lazuli/33_to_64"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320052
+            },
+            "model": "antif3:item/ore_map/small/lapis_lazuli/65_to_96"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320053
+            },
+            "model": "antif3:item/ore_map/small/lapis_lazuli/97_to_128"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320054
+            },
+            "model": "antif3:item/ore_map/small/lapis_lazuli/129_to_160"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320055
+            },
+            "model": "antif3:item/ore_map/small/lapis_lazuli/161_to_192"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320056
+            },
+            "model": "antif3:item/ore_map/small/lapis_lazuli/193_to_224"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320057
+            },
+            "model": "antif3:item/ore_map/small/lapis_lazuli/225_to_256"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320058
+            },
+            "model": "antif3:item/ore_map/small/lapis_lazuli/257_to_288"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320059
+            },
+            "model": "antif3:item/ore_map/small/lapis_lazuli/289_to_320"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320060
+            },
+            "model": "antif3:item/ore_map/small/redstone/neg63_to_neg32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320061
+            },
+            "model": "antif3:item/ore_map/small/redstone/neg31_to_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320062
+            },
+            "model": "antif3:item/ore_map/small/redstone/1_to_32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320063
+            },
+            "model": "antif3:item/ore_map/small/redstone/33_to_64"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320064
+            },
+            "model": "antif3:item/ore_map/small/redstone/65_to_96"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320065
+            },
+            "model": "antif3:item/ore_map/small/redstone/97_to_128"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320066
+            },
+            "model": "antif3:item/ore_map/small/redstone/129_to_160"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320067
+            },
+            "model": "antif3:item/ore_map/small/redstone/161_to_192"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320068
+            },
+            "model": "antif3:item/ore_map/small/redstone/193_to_224"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320069
+            },
+            "model": "antif3:item/ore_map/small/redstone/225_to_256"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320070
+            },
+            "model": "antif3:item/ore_map/small/redstone/257_to_288"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320071
+            },
+            "model": "antif3:item/ore_map/small/redstone/289_to_320"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320072
+            },
+            "model": "antif3:item/ore_map/small/diamond/neg63_to_neg32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320073
+            },
+            "model": "antif3:item/ore_map/small/diamond/neg31_to_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320074
+            },
+            "model": "antif3:item/ore_map/small/diamond/1_to_32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320075
+            },
+            "model": "antif3:item/ore_map/small/diamond/33_to_64"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320076
+            },
+            "model": "antif3:item/ore_map/small/diamond/65_to_96"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320077
+            },
+            "model": "antif3:item/ore_map/small/diamond/97_to_128"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320078
+            },
+            "model": "antif3:item/ore_map/small/diamond/129_to_160"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320079
+            },
+            "model": "antif3:item/ore_map/small/diamond/161_to_192"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320080
+            },
+            "model": "antif3:item/ore_map/small/diamond/193_to_224"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320081
+            },
+            "model": "antif3:item/ore_map/small/diamond/225_to_256"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320082
+            },
+            "model": "antif3:item/ore_map/small/diamond/257_to_288"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320083
+            },
+            "model": "antif3:item/ore_map/small/diamond/289_to_320"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320084
+            },
+            "model": "antif3:item/ore_map/small/emerald/neg63_to_neg32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320085
+            },
+            "model": "antif3:item/ore_map/small/emerald/neg31_to_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320086
+            },
+            "model": "antif3:item/ore_map/small/emerald/1_to_32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320087
+            },
+            "model": "antif3:item/ore_map/small/emerald/33_to_64"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320088
+            },
+            "model": "antif3:item/ore_map/small/emerald/65_to_96"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320089
+            },
+            "model": "antif3:item/ore_map/small/emerald/97_to_128"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320090
+            },
+            "model": "antif3:item/ore_map/small/emerald/129_to_160"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320091
+            },
+            "model": "antif3:item/ore_map/small/emerald/161_to_192"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320092
+            },
+            "model": "antif3:item/ore_map/small/emerald/193_to_224"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320093
+            },
+            "model": "antif3:item/ore_map/small/emerald/225_to_256"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320094
+            },
+            "model": "antif3:item/ore_map/small/emerald/257_to_288"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320095
+            },
+            "model": "antif3:item/ore_map/small/emerald/289_to_320"
+        }
+    ]
+}
