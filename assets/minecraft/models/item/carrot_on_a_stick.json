@@ -6,6 +6,30 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 330039
+            },
+            "model": "tcc:item/photometer/lowest_light"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 330040
+            },
+            "model": "tcc:item/photometer/low_light"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 330041
+            },
+            "model": "tcc:item/photometer/high_light"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 330042
+            },
+            "model": "tcc:item/photometer/highest_light"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1320000
             },
             "model": "antif3:item/ore_map/small/coal/neg63_to_neg32"
