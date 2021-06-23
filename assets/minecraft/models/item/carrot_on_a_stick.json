@@ -6,25 +6,25 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 1
+                "custom_model_data": 330039
             },
             "model": "tcc:item/photometer/lowest_light"
         },
         {
             "predicate": {
-                "custom_model_data": 1
+                "custom_model_data": 330040
             },
             "model": "tcc:item/photometer/low_light"
         },
         {
             "predicate": {
-                "custom_model_data": 1
+                "custom_model_data": 330041
             },
             "model": "tcc:item/photometer/high_light"
         },
         {
             "predicate": {
-                "custom_model_data": 1
+                "custom_model_data": 330042
             },
             "model": "tcc:item/photometer/highest_light"
         },
@@ -2721,672 +2721,672 @@
                 "custom_model_data": 1320192,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/320_to_313"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/320_to_313"
         },
         {
             "predicate": {
                 "custom_model_data": 1320193,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/312_to_305"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/312_to_305"
         },
         {
             "predicate": {
                 "custom_model_data": 1320194,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/304_to_297"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/304_to_297"
         },
         {
             "predicate": {
                 "custom_model_data": 1320195,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/296_to_289"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/296_to_289"
         },
         {
             "predicate": {
                 "custom_model_data": 1320196,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/288_to_281"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/288_to_281"
         },
         {
             "predicate": {
                 "custom_model_data": 1320197,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/280_to_273"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/280_to_273"
         },
         {
             "predicate": {
                 "custom_model_data": 1320198,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/272_to_265"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/272_to_265"
         },
         {
             "predicate": {
                 "custom_model_data": 1320199,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/264_to_257"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/264_to_257"
         },
         {
             "predicate": {
                 "custom_model_data": 1320200,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/256_to_249"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/256_to_249"
         },
         {
             "predicate": {
                 "custom_model_data": 1320201,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/248_to_241"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/248_to_241"
         },
         {
             "predicate": {
                 "custom_model_data": 1320202,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/240_to_233"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/240_to_233"
         },
         {
             "predicate": {
                 "custom_model_data": 1320203,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/232_to_225"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/232_to_225"
         },
         {
             "predicate": {
                 "custom_model_data": 1320204,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/224_to_217"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/224_to_217"
         },
         {
             "predicate": {
                 "custom_model_data": 1320205,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/216_to_209"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/216_to_209"
         },
         {
             "predicate": {
                 "custom_model_data": 1320206,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/208_to_201"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/208_to_201"
         },
         {
             "predicate": {
                 "custom_model_data": 1320207,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/200_to_193"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/200_to_193"
         },
         {
             "predicate": {
                 "custom_model_data": 1320208,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/192_to_185"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/192_to_185"
         },
         {
             "predicate": {
                 "custom_model_data": 1320209,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/184_to_177"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/184_to_177"
         },
         {
             "predicate": {
                 "custom_model_data": 1320210,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/176_to_169"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/176_to_169"
         },
         {
             "predicate": {
                 "custom_model_data": 1320211,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/168_to_161"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/168_to_161"
         },
         {
             "predicate": {
                 "custom_model_data": 1320212,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/160_to_153"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/160_to_153"
         },
         {
             "predicate": {
                 "custom_model_data": 1320213,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/152_to_145"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/152_to_145"
         },
         {
             "predicate": {
                 "custom_model_data": 1320214,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/144_to_137"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/144_to_137"
         },
         {
             "predicate": {
                 "custom_model_data": 1320215,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/136_to_129"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/136_to_129"
         },
         {
             "predicate": {
                 "custom_model_data": 1320216,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/128_to_121"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/128_to_121"
         },
         {
             "predicate": {
                 "custom_model_data": 1320217,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/120_to_113"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/120_to_113"
         },
         {
             "predicate": {
                 "custom_model_data": 1320218,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/112_to_105"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/112_to_105"
         },
         {
             "predicate": {
                 "custom_model_data": 1320219,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/104_to_97"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/104_to_97"
         },
         {
             "predicate": {
                 "custom_model_data": 1320220,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/96_to_89"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/96_to_89"
         },
         {
             "predicate": {
                 "custom_model_data": 1320221,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/88_to_81"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/88_to_81"
         },
         {
             "predicate": {
                 "custom_model_data": 1320222,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/80_to_73"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/80_to_73"
         },
         {
             "predicate": {
                 "custom_model_data": 1320223,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/72_to_65"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/72_to_65"
         },
         {
             "predicate": {
                 "custom_model_data": 1320224,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/64_to_57"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/64_to_57"
         },
         {
             "predicate": {
                 "custom_model_data": 1320225,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/56_to_49"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/56_to_49"
         },
         {
             "predicate": {
                 "custom_model_data": 1320226,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/48_to_41"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/48_to_41"
         },
         {
             "predicate": {
                 "custom_model_data": 1320227,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/40_to_33"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/40_to_33"
         },
         {
             "predicate": {
                 "custom_model_data": 1320228,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/32_to_25"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/32_to_25"
         },
         {
             "predicate": {
                 "custom_model_data": 1320229,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/24_to_17"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/24_to_17"
         },
         {
             "predicate": {
                 "custom_model_data": 1320230,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/16_to_9"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/16_to_9"
         },
         {
             "predicate": {
                 "custom_model_data": 1320231,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/8_to_1"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/8_to_1"
         },
         {
             "predicate": {
                 "custom_model_data": 1320232,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/0_to_neg7"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/0_to_neg7"
         },
         {
             "predicate": {
                 "custom_model_data": 1320233,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/neg8_to_neg15"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/neg8_to_neg15"
         },
         {
             "predicate": {
                 "custom_model_data": 1320234,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/neg16_to_neg23"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/neg16_to_neg23"
         },
         {
             "predicate": {
                 "custom_model_data": 1320235,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/neg24_to_neg31"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/neg24_to_neg31"
         },
         {
             "predicate": {
                 "custom_model_data": 1320236,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/neg32_to_neg39"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/neg32_to_neg39"
         },
         {
             "predicate": {
                 "custom_model_data": 1320237,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/neg40_to_neg47"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/neg40_to_neg47"
         },
         {
             "predicate": {
                 "custom_model_data": 1320238,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/neg48_to_neg55"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/neg48_to_neg55"
         },
         {
             "predicate": {
                 "custom_model_data": 1320239,
                 "lefthanded": 0
             },
-            "model": "antif3:item/ore_map/righthanded/gold_badlands/neg56_to_neg63"
+            "model": "antif3:item/ore_map/righthanded/gold/badlands/neg56_to_neg63"
         },
         {
             "predicate": {
                 "custom_model_data": 1320192,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/320_to_313"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/320_to_313"
         },
         {
             "predicate": {
                 "custom_model_data": 1320193,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/312_to_305"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/312_to_305"
         },
         {
             "predicate": {
                 "custom_model_data": 1320194,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/304_to_297"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/304_to_297"
         },
         {
             "predicate": {
                 "custom_model_data": 1320195,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/296_to_289"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/296_to_289"
         },
         {
             "predicate": {
                 "custom_model_data": 1320196,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/288_to_281"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/288_to_281"
         },
         {
             "predicate": {
                 "custom_model_data": 1320197,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/280_to_273"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/280_to_273"
         },
         {
             "predicate": {
                 "custom_model_data": 1320198,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/272_to_265"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/272_to_265"
         },
         {
             "predicate": {
                 "custom_model_data": 1320199,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/264_to_257"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/264_to_257"
         },
         {
             "predicate": {
                 "custom_model_data": 1320200,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/256_to_249"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/256_to_249"
         },
         {
             "predicate": {
                 "custom_model_data": 1320201,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/248_to_241"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/248_to_241"
         },
         {
             "predicate": {
                 "custom_model_data": 1320202,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/240_to_233"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/240_to_233"
         },
         {
             "predicate": {
                 "custom_model_data": 1320203,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/232_to_225"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/232_to_225"
         },
         {
             "predicate": {
                 "custom_model_data": 1320204,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/224_to_217"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/224_to_217"
         },
         {
             "predicate": {
                 "custom_model_data": 1320205,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/216_to_209"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/216_to_209"
         },
         {
             "predicate": {
                 "custom_model_data": 1320206,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/208_to_201"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/208_to_201"
         },
         {
             "predicate": {
                 "custom_model_data": 1320207,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/200_to_193"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/200_to_193"
         },
         {
             "predicate": {
                 "custom_model_data": 1320208,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/192_to_185"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/192_to_185"
         },
         {
             "predicate": {
                 "custom_model_data": 1320209,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/184_to_177"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/184_to_177"
         },
         {
             "predicate": {
                 "custom_model_data": 1320210,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/176_to_169"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/176_to_169"
         },
         {
             "predicate": {
                 "custom_model_data": 1320211,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/168_to_161"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/168_to_161"
         },
         {
             "predicate": {
                 "custom_model_data": 1320212,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/160_to_153"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/160_to_153"
         },
         {
             "predicate": {
                 "custom_model_data": 1320213,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/152_to_145"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/152_to_145"
         },
         {
             "predicate": {
                 "custom_model_data": 1320214,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/144_to_137"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/144_to_137"
         },
         {
             "predicate": {
                 "custom_model_data": 1320215,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/136_to_129"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/136_to_129"
         },
         {
             "predicate": {
                 "custom_model_data": 1320216,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/128_to_121"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/128_to_121"
         },
         {
             "predicate": {
                 "custom_model_data": 1320217,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/120_to_113"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/120_to_113"
         },
         {
             "predicate": {
                 "custom_model_data": 1320218,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/112_to_105"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/112_to_105"
         },
         {
             "predicate": {
                 "custom_model_data": 1320219,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/104_to_97"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/104_to_97"
         },
         {
             "predicate": {
                 "custom_model_data": 1320220,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/96_to_89"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/96_to_89"
         },
         {
             "predicate": {
                 "custom_model_data": 1320221,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/88_to_81"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/88_to_81"
         },
         {
             "predicate": {
                 "custom_model_data": 1320222,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/80_to_73"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/80_to_73"
         },
         {
             "predicate": {
                 "custom_model_data": 1320223,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/72_to_65"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/72_to_65"
         },
         {
             "predicate": {
                 "custom_model_data": 1320224,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/64_to_57"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/64_to_57"
         },
         {
             "predicate": {
                 "custom_model_data": 1320225,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/56_to_49"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/56_to_49"
         },
         {
             "predicate": {
                 "custom_model_data": 1320226,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/48_to_41"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/48_to_41"
         },
         {
             "predicate": {
                 "custom_model_data": 1320227,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/40_to_33"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/40_to_33"
         },
         {
             "predicate": {
                 "custom_model_data": 1320228,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/32_to_25"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/32_to_25"
         },
         {
             "predicate": {
                 "custom_model_data": 1320229,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/24_to_17"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/24_to_17"
         },
         {
             "predicate": {
                 "custom_model_data": 1320230,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/16_to_9"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/16_to_9"
         },
         {
             "predicate": {
                 "custom_model_data": 1320231,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/8_to_1"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/8_to_1"
         },
         {
             "predicate": {
                 "custom_model_data": 1320232,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/0_to_neg7"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/0_to_neg7"
         },
         {
             "predicate": {
                 "custom_model_data": 1320233,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/neg8_to_neg15"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/neg8_to_neg15"
         },
         {
             "predicate": {
                 "custom_model_data": 1320234,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/neg16_to_neg23"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/neg16_to_neg23"
         },
         {
             "predicate": {
                 "custom_model_data": 1320235,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/neg24_to_neg31"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/neg24_to_neg31"
         },
         {
             "predicate": {
                 "custom_model_data": 1320236,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/neg32_to_neg39"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/neg32_to_neg39"
         },
         {
             "predicate": {
                 "custom_model_data": 1320237,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/neg40_to_neg47"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/neg40_to_neg47"
         },
         {
             "predicate": {
                 "custom_model_data": 1320238,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/neg48_to_neg55"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/neg48_to_neg55"
         },
         {
             "predicate": {
                 "custom_model_data": 1320239,
                 "lefthanded": 1
             },
-            "model": "antif3:item/ore_map/lefthanded/gold_badlands/neg56_to_neg63"
+            "model": "antif3:item/ore_map/lefthanded/gold/badlands/neg56_to_neg63"
         },
         {
             "predicate": {
