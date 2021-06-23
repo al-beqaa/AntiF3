@@ -6075,6 +6075,12 @@
                 "lefthanded": 1
             },
             "model": "antif3:item/ore_map/lefthanded/emerald/neg56_to_neg63"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320432
+            },
+            "model": "antif3:item/ore_map/empty"
         }
     ]
 }

@@ -9,7 +9,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1320000,HideFlags:4,RepairCost:9999,Unbreakable:1b}"
+                            "tag": "{CustomModelData:1320432,HideFlags:4,RepairCost:9999,Unbreakable:1b,antif3:{id:\"ore_map\"}}"
                         },
                         {
                             "function": "minecraft:set_name",
