@@ -1,0 +1,13 @@
+[
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{antif3:{tracking:\"minecraft:lapis_lazuli\"}}"
+    },
+    {
+        "function": "minecraft:set_name",
+        "name": {
+            "translate": "item.antif3.ore_map.minecraft:lapis_lazuli",
+            "italic": false
+        }
+    }
+]

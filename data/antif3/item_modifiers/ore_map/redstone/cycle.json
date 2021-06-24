@@ -1,0 +1,13 @@
+[
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{antif3:{tracking:\"minecraft:diamond\"}}"
+    },
+    {
+        "function": "minecraft:set_name",
+        "name": {
+            "translate": "item.antif3.ore_map.minecraft:diamond",
+            "italic": false
+        }
+    }
+]

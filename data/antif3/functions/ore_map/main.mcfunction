@@ -1,0 +1,2 @@
+execute if score @s antif3.coas matches 1.. unless entity @s[nbt=!{SelectedItem:{tag:{antif3:{id:"ore_map"}}}},nbt=!{Inventory:[{tag:{antif3:{id:"ore_map"}},Slot:-106b}]}] run function antif3:ore_map/cycle_ore
+function antif3:ore_map/change_altitude
