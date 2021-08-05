@@ -2,17 +2,17 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
       "recipes": [
-        "minecraft:lodestone"
+        "minecraft:map"
       ]
     },
     "criteria": {
-      "has_iron_block": {
+      "has_paper": {
         "trigger": "minecraft:inventory_changed",
         "conditions": {
           "items": [
             {
               "items": [
-                "minecraft:iron_block"
+                "minecraft:paper"
               ]
             }
           ]
@@ -21,13 +21,13 @@
       "has_the_recipe": {
         "trigger": "minecraft:recipe_unlocked",
         "conditions": {
-          "recipe": "minecraft:lodestone"
+          "recipe": "minecraft:map"
         }
       }
     },
     "requirements": [
       [
-        "has_iron_block",
+        "has_paper",
         "has_the_recipe"
       ]
     ]
