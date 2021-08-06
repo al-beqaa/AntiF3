@@ -1,0 +1,2 @@
+data modify storage abcl:storage temp.message set value { Message: '[]', Priority: 2, ClearImmediately:1b }
+execute if data entity @s Inventory[{Slot:-106b}] run data modify storage abcl:storage temp.message.Message set value '[{"nbt":"Inventory[{Slot:-106b}].tag.Decorations[-1].x","entity":"@s","color":"gold"},{"text":", ","color":"gold"},{"nbt":"Inventory[{Slot:-106b}].tag.Decorations[-1].z","entity":"@s","color":"gold"}]'
