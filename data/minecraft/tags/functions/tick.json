@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-        "antif3:tick"
+        "antif3:tick",
+        "abcl:tick"
     ]
 }
