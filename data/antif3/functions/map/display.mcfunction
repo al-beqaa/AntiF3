@@ -1,4 +1,4 @@
-data modify storage abcl:storage temp.message set value { Message: '', Priority: 2 }
+data modify storage abcl:storage temp.message set value { Message: '', Priority: 2, ClearImmediately: 1b }
 execute if entity @s[advancements={antif3:technical/check_biome={minecraft.ocean=true}}] run data modify storage abcl:storage temp.message.Message set value '{"translate":"biome.minecraft.ocean","color":"gold"}'
 execute if entity @s[advancements={antif3:technical/check_biome={minecraft.deep_ocean=true}}] run data modify storage abcl:storage temp.message.Message set value '{"translate":"biome.minecraft.deep_ocean","color":"gold"}'
 execute if entity @s[advancements={antif3:technical/check_biome={minecraft.frozen_ocean=true}}] run data modify storage abcl:storage temp.message.Message set value '{"translate":"biome.minecraft.frozen_ocean","color":"gold"}'
