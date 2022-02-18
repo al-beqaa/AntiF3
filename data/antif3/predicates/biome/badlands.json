@@ -10,12 +10,6 @@
         {
             "condition": "minecraft:location_check",
             "predicate": {
-                "biome": "minecraft:badlands_plateau"
-            }
-        },
-        {
-            "condition": "minecraft:location_check",
-            "predicate": {
                 "biome": "minecraft:wooded_badlands"
             }
         },
