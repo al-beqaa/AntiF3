@@ -13,7 +13,7 @@
     {
         "function": "minecraft:set_nbt",
         "tag": "{antif3:{tracking:\"minecraft:emerald\"}}",
-        "conditions": [{"condition": "minecraft:reference", "name": "antif3:biome/mountains"}]
+        "conditions": [{"condition": "minecraft:reference", "name": "antif3:biome/emerald"}]
     },
     {
         "function": "minecraft:set_name",
@@ -21,6 +21,6 @@
             "translate": "item.antif3.ore_map.minecraft:emerald",
             "italic": false
         },
-        "conditions": [{"condition": "minecraft:reference", "name": "antif3:biome/mountains"}]
+        "conditions": [{"condition": "minecraft:reference", "name": "antif3:biome/emerald"}]
     }
 ]
