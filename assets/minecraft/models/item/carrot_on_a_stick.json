@@ -6081,6 +6081,678 @@
                 "custom_model_data": 1320432
             },
             "model": "antif3:item/ore_map/empty"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320433,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/320_to_313"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320434,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/312_to_305"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320435,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/304_to_297"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320436,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/296_to_289"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320437,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/288_to_281"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320438,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/280_to_273"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320439,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/272_to_265"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320440,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/264_to_257"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320441,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/256_to_249"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320442,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/248_to_241"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320443,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/240_to_233"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320444,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/232_to_225"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320445,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/224_to_217"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320446,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/216_to_209"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320447,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/208_to_201"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320448,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/200_to_193"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320449,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/192_to_185"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320450,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/184_to_177"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320451,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/176_to_169"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320452,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/168_to_161"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320453,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/160_to_153"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320454,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/152_to_145"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320455,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/144_to_137"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320456,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/136_to_129"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320457,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/128_to_121"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320458,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/120_to_113"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320459,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/112_to_105"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320460,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/104_to_97"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320461,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/96_to_89"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320462,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/88_to_81"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320463,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/80_to_73"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320464,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/72_to_65"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320465,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/64_to_57"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320466,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/56_to_49"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320467,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/48_to_41"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320468,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/40_to_33"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320469,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/32_to_25"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320470,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/24_to_17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320471,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/16_to_9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320472,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/8_to_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320473,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/0_to_neg7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320474,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/neg8_to_neg15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320475,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/neg16_to_neg23"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320476,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/neg24_to_neg31"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320477,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/neg32_to_neg39"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320478,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/neg40_to_neg47"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320479,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/neg48_to_neg55"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320480,
+                "lefthanded": 1
+            },
+            "model": "antif3:item/ore_map/lefthanded/copper/dripstone_caves/neg56_to_neg63"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320433,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/320_to_313"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320434,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/312_to_305"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320435,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/304_to_297"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320436,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/296_to_289"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320437,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/288_to_281"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320438,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/280_to_273"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320439,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/272_to_265"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320440,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/264_to_257"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320441,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/256_to_249"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320442,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/248_to_241"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320443,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/240_to_233"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320444,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/232_to_225"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320445,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/224_to_217"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320446,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/216_to_209"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320447,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/208_to_201"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320448,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/200_to_193"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320449,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/192_to_185"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320450,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/184_to_177"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320451,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/176_to_169"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320452,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/168_to_161"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320453,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/160_to_153"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320454,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/152_to_145"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320455,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/144_to_137"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320456,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/136_to_129"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320457,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/128_to_121"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320458,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/120_to_113"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320459,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/112_to_105"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320460,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/104_to_97"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320461,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/96_to_89"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320462,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/88_to_81"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320463,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/80_to_73"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320464,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/72_to_65"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320465,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/64_to_57"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320466,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/56_to_49"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320467,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/48_to_41"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320468,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/40_to_33"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320469,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/32_to_25"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320470,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/24_to_17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320471,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/16_to_9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320472,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/8_to_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320473,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/0_to_neg7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320474,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/neg8_to_neg15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320475,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/neg16_to_neg23"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320476,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/neg24_to_neg31"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320477,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/neg32_to_neg39"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320478,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/neg40_to_neg47"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320479,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/neg48_to_neg55"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1320480,
+                "lefthanded": 0
+            },
+            "model": "antif3:item/ore_map/righthanded/copper/dripstone_caves/neg56_to_neg63"
         }
     ]
 }
