@@ -1,0 +1,816 @@
+[
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320336}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "min": 313
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320337}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 312,
+                            "min": 305
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320338}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 304,
+                            "min": 297
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320339}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 296,
+                            "min": 289
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320340}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 288,
+                            "min": 281
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320341}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 280,
+                            "min": 273
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320342}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 272,
+                            "min": 265
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320343}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 264,
+                            "min": 257
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320344}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 256,
+                            "min": 249
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320345}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 248,
+                            "min": 241
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320346}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 240,
+                            "min": 233
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320347}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 232,
+                            "min": 225
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320348}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 224,
+                            "min": 217
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320349}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 216,
+                            "min": 209
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320350}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 208,
+                            "min": 201
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320351}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 200,
+                            "min": 193
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320352}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 192,
+                            "min": 185
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320353}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 184,
+                            "min": 177
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320354}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 176,
+                            "min": 169
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320355}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 168,
+                            "min": 161
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320356}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 160,
+                            "min": 153
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320357}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 152,
+                            "min": 145
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320358}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 144,
+                            "min": 137
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320359}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 136,
+                            "min": 129
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320360}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 128,
+                            "min": 121
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320361}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 120,
+                            "min": 113
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320362}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 112,
+                            "min": 105
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320363}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 104,
+                            "min": 97
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320364}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 96,
+                            "min": 89
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320365}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 88,
+                            "min": 81
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320366}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 80,
+                            "min": 73
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320367}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 72,
+                            "min": 65
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320368}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 64,
+                            "min": 57
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320369}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 56,
+                            "min": 49
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320370}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 48,
+                            "min": 41
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320371}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 40,
+                            "min": 33
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320372}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 32,
+                            "min": 25
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320373}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 24,
+                            "min": 17
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320374}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 16,
+                            "min": 9
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320375}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 8,
+                            "min": 1
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320376}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": 0,
+                            "min": -7
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320377}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -8,
+                            "min": -15
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320378}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -16,
+                            "min": -23
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320379}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -24,
+                            "min": -31
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320380}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -32,
+                            "min": -39
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320381}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -40,
+                            "min": -47
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320382}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -48,
+                            "min": -55
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{CustomModelData:1320383}",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "position": {
+                        "y": {
+                            "max": -56
+                        }
+                    }
+                }
+            }
+        ]
+    }
+]

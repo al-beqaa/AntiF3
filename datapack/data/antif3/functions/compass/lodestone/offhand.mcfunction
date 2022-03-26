@@ -1,0 +1,2 @@
+data modify storage abcl:storage temp.message.Message set value '[{"nbt":"Inventory[{Slot:-106b}].tag.LodestonePos.X","entity":"@s","color":"light_purple"},{"text":", ","color":"light_purple"},{"nbt":"Inventory[{Slot:-106b}].tag.LodestonePos.Z","entity":"@s","color":"light_purple"}]'
+execute as @s[tag=!global.ignore.gui] run function abcl:message/check
