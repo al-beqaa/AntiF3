@@ -1,6 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "antif3:item/ore_map/base_small"
-    }
-}

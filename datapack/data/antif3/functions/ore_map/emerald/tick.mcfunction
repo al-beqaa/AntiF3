@@ -1,2 +1,0 @@
-execute as @s[nbt={SelectedItem:{tag:{antif3:{tracking:"minecraft:emerald"}}}}] run function antif3:ore_map/emerald/mainhand
-execute as @s[nbt={Inventory:[{Slot:-106b,tag:{antif3:{tracking:"minecraft:emerald"}}}]}] run function antif3:ore_map/emerald/offhand

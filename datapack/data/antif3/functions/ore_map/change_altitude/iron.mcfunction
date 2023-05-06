@@ -1,2 +1,0 @@
-item modify entity @s[nbt={SelectedItem:{tag:{antif3:{id:"ore_map",tracking:"minecraft:iron"}}}}] weapon.mainhand antif3:ore_map/iron/altitude
-item modify entity @s[nbt={Inventory:[{Slot:-106b,tag:{antif3:{id:"ore_map",tracking:"minecraft:iron"}}}]}] weapon.offhand antif3:ore_map/iron/altitude
